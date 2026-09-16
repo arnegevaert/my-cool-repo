@@ -1,6 +1,6 @@
 # My awesome project
 
-This is my not so cool project.
+This is my not so cool but kinda project.
 I'm submitting it to Nature next week.
 
 installation instructions: TODO
